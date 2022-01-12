@@ -8,7 +8,7 @@
     width: 200px;
     background-color: bisque;
     display: flex;
-
+    position: fixed;
 }
 .Sidebar{
     height: 100%;
