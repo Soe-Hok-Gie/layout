@@ -7,6 +7,37 @@
     height: 100vh;
     width: 200px;
     background-color: bisque;
+    display: flex;
+
+}
+.Sidebar{
+    height: 100%;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10px auto;
+
+}
+.kotaksatu{
+    width: 60%;
+    height: 10%;
+    background-color: violet;
+}
+.kotakdua{
+    width: 60%;
+    height: 10%;
+    background-color: yellowgreen;
+}
+.kotaktiga{
+    width: 60%;
+    height: 10%;
+    background-color: black;
+}
+.Profil{
+    width: 80%;
+    height: 10%;
+    background-color: cadetblue;
 }
 .WrapperNavbar{
     height: 100vh;
@@ -14,7 +45,7 @@
     background-color: brown;
 }
 .WrapperFooter{
-    height: 100%;
+    height: 100vh;
     width: 200px;
     background-color: yellow;
 }
