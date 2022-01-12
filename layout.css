@@ -2,24 +2,31 @@
     width: 100vw;
     height: auto;
     background-color: aquamarine;
+    display: flex;
 }
 .WrapperSidebar{
     height: 100vh;
     width: 200px;
     background-color: bisque;
-    display: flex;
-    position: fixed;
+    /* display: flex;
+    position: fixed; */
 }
-.Sidebar{
-    height: 100%;
-    width: 100px;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin: 10px auto;
+/* .WrapperMain{
 
 }
-.kotaksatu{
+.search{
+
+}
+.WrapperBox{
+
+}
+.WrapperContent{
+
+}
+.WrapperFooter{
+
+} */
+/* .kotaksatu{
     width: 60%;
     height: 10%;
     background-color: violet;
@@ -38,14 +45,4 @@
     width: 80%;
     height: 10%;
     background-color: cadetblue;
-}
-.WrapperNavbar{
-    height: 100vh;
-    width: 200px;
-    background-color: brown;
-}
-.WrapperFooter{
-    height: 100vh;
-    width: 200px;
-    background-color: yellow;
-}
+} */
