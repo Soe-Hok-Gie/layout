@@ -16,6 +16,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
 
 }
 .WrapperMain{
@@ -58,23 +59,23 @@ padding: 4px;
     width: 60%;
     height: 10%;
     background-color: cornsilk;
-    border: crimson;
+    border-radius: 10px;
 }
 .BoxSidebar2{
     width: 60%;
     height: 10%;
     background-color: cornsilk;
-    border: crimson;
+    border-radius: 10px;
 }
 .BoxSidebar3{
     width: 60%;
     height: 10%;
     background-color: cornsilk;
-    border: crimson;
+    border-radius: 10px;
 }
 .Profil{
-    width: 80%;
+    width: 70%;
     height: 10%;
     background-color: cornsilk;
-    border: crimson;
+    border-radius: 10px;
 }
