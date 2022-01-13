@@ -30,8 +30,9 @@ padding: 4px;
 
 .WrapperFooter{
  width: 100%;
- background-color: black;   
+ background:radial-gradient( #00586a,#92d593);   
  height: 100px; 
+ display: flex;
 
 
 }
@@ -127,3 +128,10 @@ padding: 4px;
 }
 
 
+.WrapperFooter span{
+    margin: auto;
+    text-align: center;
+    color: whitesmoke;
+    font-weight: bold;
+    display: flex;
+}
