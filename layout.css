@@ -14,7 +14,7 @@
 .WrapperMain{
 height:auto;
 background-color: rgb(230, 70, 102);
-width: 80%;
+width: 100%;
 display: flex;
 flex-direction: column;
 }
@@ -22,7 +22,8 @@ flex-direction: column;
 .WrapperFooter{
  width: 100%;
  background-color: gray;   
- height: 60px;
+ height: 100px;
+ 
 
 }
 .search{
