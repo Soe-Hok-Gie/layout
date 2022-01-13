@@ -1,19 +1,19 @@
 .Container{
     width: 100vw;
     height: auto;
-    background-color: whitesmoke;
+    background-color: gray;
     display: flex;
 }
 .WrapperSidebar{
     height: 100vh;
     width: 200px;
-    background-color: bisque;
+    background-color: teal;
     /* display: flex;
     position: fixed; */
 }
 .WrapperMain{
 height:auto;
-background-color: rgb(230, 70, 102);
+background-color:cornsilk;
 width: 100%;
 display: flex;
 flex-direction: column;
@@ -21,13 +21,13 @@ flex-direction: column;
 
 .WrapperFooter{
  width: 100%;
- background-color: gray;   
+ background-color: black;   
  height: 100px;
  
 
 }
 .search{
-    background-color: teal;
+    background-color: rgb(243, 82, 114);
     width: 100%;
     height: 60px;
 
@@ -40,7 +40,7 @@ flex-direction: column;
 }
 .WrapperContent{
     margin-top: 15px;
-    background-color: goldenrod;
+    background-color:crimson;
     width: 100%;
     height: 200px;
     margin-bottom: 100px;
