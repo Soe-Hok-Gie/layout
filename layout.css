@@ -1,7 +1,7 @@
 .Container{
     width: 100vw;
     height: auto;
-    background-color: aquamarine;
+    background-color: whitesmoke;
     display: flex;
 }
 .WrapperSidebar{
@@ -12,7 +12,11 @@
     position: fixed; */
 }
 .WrapperMain{
-
+height:auto;
+background-color: rgb(230, 70, 102);
+width: 80%;
+display: flex;
+flex-direction: column;
 }
 .search{
 
